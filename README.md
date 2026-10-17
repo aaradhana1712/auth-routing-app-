@@ -8,7 +8,7 @@
 
 ## 🌟 Live Demo & Repositories
 
-- **Task 2 Live Demo:** Deployable on Vercel / Netlify
+- **Task 2 (Auth & Client Routing):** [GitHub Repository](https://github.com/aaradhana1712/auth-routing-app-.git) | [Live Demo](https://auth-routing-app-omega.vercel.app)
 - **Task 1 (Component Library):** [GitHub Repository](https://github.com/aaradhana1712/ui-library.git) | [Live Demo](https://ui-library-navy-eta.vercel.app/)
 
 ---
